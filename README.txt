@@ -1,0 +1,1 @@
+It's what it says, a rubik's cube. It's a text based cube simulator, played in the console.
